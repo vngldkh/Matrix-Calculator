@@ -1,0 +1,5 @@
+C:\publish\MatrixCalculator.exe
+C:\publish\MatrixCalculator.dll
+C:\publish\MatrixCalculator.deps.json
+C:\publish\MatrixCalculator.runtimeconfig.json
+C:\publish\MatrixCalculator.pdb
